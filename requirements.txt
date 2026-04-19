@@ -1,0 +1,13 @@
+# MCP 
+fastmcp 
+
+# Box SDK 
+box-sdk-gen
+
+# Configurations & Env
+python-dotenv
+
+# AI & DL
+transformers
+torch 
+numpy 
